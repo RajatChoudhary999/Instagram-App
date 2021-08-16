@@ -1,3 +1,5 @@
+[LIVE DEMO](https://instagram-app-colden-b7d4af.netlify.app/).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
